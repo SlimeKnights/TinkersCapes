@@ -1,6 +1,6 @@
-mDiyo:https://dl.dropboxusercontent.com/u/42769935/mCape.png
+mDiyonowantcape:https://dl.dropboxusercontent.com/u/42769935/mCape.png
 fuj1n:https://dl.dropboxusercontent.com/s/i6gra1pc6gxawwz/capeTCLogo.png
-progwml6:https://dl.dropboxusercontent.com/s/i6gra1pc6gxawwz/capeTCLogo.png
+progwml6:https://dl.dropboxusercontent.com/u/10600322/mcmods/progcape.png
 alexbegt:https://dl.dropboxusercontent.com/s/i6gra1pc6gxawwz/capeTCLogo.png
 jadedcat:https://dl.dropboxusercontent.com/u/101137403/jadedcat.png
 Myrathi:https://dl.dropboxusercontent.com/u/39079855/minecraft_dev/TE_Cape_Myrathi.png
@@ -50,4 +50,3 @@ GPuzzle:https://dl.dropboxusercontent.com/s/etrersgka8n7g3s/vineCape.png
 ajloveslily14:https://dl.dropboxusercontent.com/s/8yl77gjf4cygnzo/cape.png
 multisofteis:http://i.imgur.com/AgGBsX8.png
 Drullkus:https://dl.dropboxusercontent.com/u/48633261/cape.png
-----------------------------------------FINALISED - ONLY ALLOW REMOVAL OF CAPES----------------------------------------
