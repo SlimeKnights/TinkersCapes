@@ -1,2 +1,3 @@
 Reaverblade:https://raw.github.com/SlimeKnights/TinkersConstruct/master/capes/patron_slime.png
 Snowsongwolf:https://raw.github.com/SlimeKnights/TinkersConstruct/master/capes/Snowsongwolf.png
+Kitsyfluff:https://raw.github.com/SlimeKnights/TinkersConstruct/master/capes/kitsyfluff.png
