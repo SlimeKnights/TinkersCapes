@@ -10,7 +10,6 @@ pillbox:https://raw.github.com/SlimeKnights/TinkersCapes/master/capes/default_or
 Hysting:https://raw.github.com/SlimeKnights/TinkersCapes/master/capes/default_blue.png
 Xythyl:https://raw.github.com/SlimeKnights/TinkersCapes/master/capes/default_blue.png
 andrejsavikin:https://raw.github.com/SlimeKnights/TinkersCapes/master/capes/default_blue.png
-DentedLeftFender:https://raw.github.com/SlimeKnights/TinkersCapes/master/capes/default_green.png
 Pokefenn:https://dl.dropboxusercontent.com/s/etrersgka8n7g3s/vineCape.png
 sondrex76:http://i.imgur.com/a7QMfjc.png
 Steelflameblade:http://i.imgur.com/pz1O4pe.png
